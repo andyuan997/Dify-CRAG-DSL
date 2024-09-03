@@ -6,7 +6,5 @@
 
 
 ![](./CRAG.png)
-<center>架構圖</center>
 
 ![](./workflow.png)
-<center>流程圖</center>
